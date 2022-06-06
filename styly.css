@@ -1,0 +1,47 @@
+html, body 
+    {margin: 0.5rem ;
+     padding: 0.5ram;
+     box-sizing: border-box;}
+
+#container { 
+        width: 1200px; 
+        margin: 0px auto; 
+        } 
+        
+
+header {background: rosybrown;
+        margin: 15px;
+        padding: 15px;
+        box-sizing: border-box ;}
+
+header h1 {color: white;
+           text-align: center; 
+           margin: 0px;
+           padding: 0px;}
+
+
+ .clearfix:after { content: normal;
+        display: table;
+        clear: both;} 
+  
+.wiki  {color: white;
+    text-decoration: none;
+    background:grey;
+    margin-left: 44px;
+    margin-right: 44px;
+
+    padding: 7px;
+    border-radius: 5px;} 
+
+a:hover {color:grey; 
+        background:white;}
+
+
+
+
+
+h2 {text-align: center; color: rosybrown;}
+p  {text-align: center;}
+
+ 
+
